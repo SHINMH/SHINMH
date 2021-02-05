@@ -20,9 +20,9 @@ My name is Myeongha. My major is computer engineering.
 
 I have project experience using **Python**, **Java & Android**, **Ruby & Ruby on Rails**, **c++** languages. 
 
-## :page_facing_up: Career
-2015.03 ~ 2021.02 :mortar_board:
-
+## :page_facing_up: Education
+- :mortar_board: University of sejong - 2015.03 ~ 2021.02 
+- Samsung software academy 5th - 2020.1 ~ now
 ## Interest
 - Java & Spring 
 
