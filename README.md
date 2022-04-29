@@ -22,7 +22,8 @@ I have project experience using **Python**, **Java & Android**, **Ruby & Ruby on
 
 ## :page_facing_up: Education
 - :mortar_board: University of sejong - 2015.03 ~ 2021.02 
-- Samsung software academy 5th - 2021.1 ~ now
+- Samsung software academy 5th - 2021.1 ~ 2021.6
+- LG CNS - 2021.7 ~ now
 ## Interest
 - Java & Spring 
 
