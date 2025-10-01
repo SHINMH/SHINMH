@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=300&section=header&text=Shin%20Myeongha&fontSize=90)
 
 ## Hello
 My name is Myeongha. My major is computer engineering.
@@ -21,8 +20,8 @@ My name is Myeongha. My major is computer engineering.
 I have project experience using **Python**, **Java & Android**, **Ruby & Ruby on Rails**, **c++** languages. 
 
 ## :page_facing_up: Education
-- :mortar_board: University of sejong - 2015.03 ~ 2021.02 
-- Samsung software academy 5th - 2021.1 ~ 2021.6
+- Sejong University - 2015.03 ~ 2021.02 
+- SSAFY(Samsung software academy 5th) - 2021.1 ~ 2021.6
 - LG CNS - 2021.7 ~ now
 ## Interest
 - Java & Spring 
