@@ -24,7 +24,4 @@ I have project experience using **Python**, **Java & Android**, **Ruby & Ruby on
 - SSAFY(Samsung software academy 5th) - 2021.1 ~ 2021.6
 - LG CNS - 2021.7 ~ now
 ## Interest
-- Java & Spring 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinmh&show_icons=true&title_color=ffffff&icon_color=2c3e50&text_color=ffffff&bg_color=0,e55d87,5fc3e4)](https://github.com/anuraghazra/github-readme-stats)
+- Java & Spring
